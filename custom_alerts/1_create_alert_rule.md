@@ -35,7 +35,14 @@ To create Custom Alert, navigate to `Manage > Settings > Anomaly detection > Cus
 
 4. Provide a name, customize message and create rule
 
-![Custom Event for Alerting 5](images/custom_events_for_alerting_create_5.png)
+    ![Custom Event for Alerting 5](images/custom_events_for_alerting_create_5.png)
+
+
+<br/>
+
+The next steps is to create an Alerting Profile to capture this alert, whenever its created. 
+
+## NEXT: [Create Alerting Profile](2_create_alerting_profile.md)
 
 
 
