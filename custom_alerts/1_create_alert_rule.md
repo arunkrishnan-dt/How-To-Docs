@@ -1,6 +1,6 @@
 # Create Custom Event for Alerting rule
 
-To create Custom Event for Alerting rule, navigate to `Manage > Settings > Anomaly detection > Custom events for alerting` and click `Custom event for alerting` .
+To create Custom Event for Alerting rule, navigate to `Manage > Settings > Anomaly detection > Custom events for alerting` and click `Create Custom event for alerting` .
 
 ![Create Custom Events for Alerting](images/custom_events_for_alerting_create.png)
 
