@@ -24,4 +24,4 @@ To create an Alerting Profile navtigate to `Settings > Alerting > Problem Alerti
 
 The next steps is to create a Problem notification rule to receive alert when the Alerting Profile is triggered.
 
-## NEXT: [Create Alerting Profile](2_create_alerting_profile.md)
+## NEXT: [Create Problem Notification Rule](3_create_problem_notification.md)
