@@ -1,4 +1,4 @@
-# How To - Custom Events for Alerting
+# How To: Custom Events for Alerting
 
 This document walks you through creating a 'Custom Events for Alerting' rule and rules to send out notification when threshold is breached.
 
