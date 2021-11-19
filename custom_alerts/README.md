@@ -1,6 +1,6 @@
 # How To: Custom Events for Alerting
 
-This document walks you through creating a 'Custom Events for Alerting' rule and rules to send out notification when threshold is breached.
+This document walks you through creating a 'Custom Events for Alerting' rule and setting up Dynatrace to send out notification.
 
 > NOTE: 'Custom Events for Alerting' & 'Custom Alert' terms are used interchangeably in this doc.
 
